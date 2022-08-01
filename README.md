@@ -1,0 +1,1 @@
+This kernel is based on the one from LineageOS (which itself matches closely to the official AOSP kernel)
